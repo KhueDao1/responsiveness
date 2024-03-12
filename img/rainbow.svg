@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 612 792">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f78f4a;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-6, .cls-7 {
+        mix-blend-mode: difference;
+      }
+
+      .cls-2 {
+        fill: #2b449c;
+      }
+
+      .cls-8 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: #98cb5a;
+      }
+
+      .cls-4 {
+        fill: #fdf176;
+      }
+
+      .cls-5 {
+        fill: #8452a1;
+      }
+
+      .cls-6 {
+        fill: #ef3f23;
+      }
+
+      .cls-7 {
+        fill: #fdee1c;
+      }
+    </style>
+  </defs>
+  <g class="cls-8">
+    <g id="p1">
+      <g>
+        <g id="_Radial_Repeat_" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-5" x="483.02" y="607.26" width="56.51" height="10.38" transform="translate(540.92 1409.7) rotate(-142.27)"/>
+        </g>
+        <g id="_Radial_Repeat_-2" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-5" x="266.39" y="679.87" width="56.51" height="10.38" transform="translate(-347.59 1064.07) rotate(-97.27)"/>
+        </g>
+        <g id="_Radial_Repeat_-3" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-5" x="61.87" y="578.04" width="56.51" height="10.38" transform="translate(-426.32 297.64) rotate(-52.27)"/>
+        </g>
+        <g id="_Radial_Repeat_-4" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-5" x="-10.74" y="361.41" width="56.51" height="10.38" transform="translate(-46.28 5.17) rotate(-7.27)"/>
+        </g>
+        <g id="_Radial_Repeat_-5" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-5" x="91.09" y="156.89" width="56.51" height="10.38" transform="translate(124.12 -39.14) rotate(37.73)"/>
+        </g>
+        <g id="_Radial_Repeat_-6" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-5" x="307.72" y="84.28" width="56.51" height="10.38" transform="translate(382.18 -255.13) rotate(82.73)"/>
+        </g>
+        <g id="_Radial_Repeat_-7" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-5" x="512.24" y="186.11" width="56.51" height="10.38" transform="translate(1022.52 -119.15) rotate(127.73)"/>
+        </g>
+        <g id="_Radial_Repeat_-8" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-5" x="584.85" y="402.74" width="56.51" height="10.38" transform="translate(1272.93 734.94) rotate(172.73)"/>
+        </g>
+      </g>
+      <g>
+        <path class="cls-4" d="m304.63,360.17l-16.24,57.06-76.65-21.82c-20.47-5.83-34.76-18.61-28.94-39.08l8.12-28.53,113.71,32.37Z"/>
+        <path class="cls-4" d="m332.48,367.57l-54.74,22.88-30.73-73.54c-8.21-19.63-7.12-38.78,12.51-46.99l27.37-11.44,45.59,109.09Z"/>
+        <path class="cls-4" d="m344.05,393.96l-52.01-28.53,38.33-69.88c10.23-18.66,25.88-29.75,44.54-19.52l26.01,14.27-56.86,103.66Z"/>
+        <path class="cls-4" d="m330.64,419.46l-10.12-58.46,78.53-13.6c20.97-3.63,39.4,1.68,43.03,22.65l5.06,29.23-116.5,20.17Z"/>
+        <path class="cls-4" d="m302.33,424.88l39.39-44.36,59.6,52.92c15.91,14.13,23.25,31.85,9.12,47.76l-19.7,22.18-88.41-78.5Z"/>
+        <path class="cls-4" d="m280.45,406.12l59.24,3.14-4.22,79.59c-1.13,21.25-10.41,38.03-31.66,36.91l-29.62-1.57,6.26-118.07Z"/>
+        <path class="cls-4" d="m281.47,377.33l34.48,48.27-64.85,46.33c-17.32,12.37-36.23,15.58-48.6-1.74l-17.24-24.14,96.21-68.72Z"/>
+      </g>
+      <circle class="cls-2" cx="315.45" cy="387.26" r="113.56"/>
+      <g>
+        <polygon class="cls-6" points="239.75 593.62 288.15 511.08 336.54 428.53 370.69 462.68 404.84 496.83 322.3 545.23 239.75 593.62"/>
+        <polygon class="cls-6" points="141.29 516.24 226.63 472.96 311.97 429.68 322.23 476.87 332.5 524.07 236.89 520.15 141.29 516.24"/>
+        <polygon class="cls-6" points="100.29 397.9 195.48 407.63 290.67 417.36 273.79 462.61 256.92 507.86 178.6 452.88 100.29 397.9"/>
+        <polygon class="cls-6" points="129.78 276.19 204.6 335.84 279.42 395.49 240.75 424.43 202.09 453.37 165.94 364.78 129.78 276.19"/>
+        <polygon class="cls-6" points="220.39 189.74 251.08 280.37 281.78 371 233.6 374.45 185.43 377.89 202.91 283.81 220.39 189.74"/>
+        <polygon class="cls-6" points="343.36 166 320.18 258.84 297 351.67 254.61 328.53 212.23 305.38 277.79 235.69 343.36 166"/>
+        <polygon class="cls-6" points="459.64 212.51 389.95 278.08 320.26 343.65 297.11 301.26 273.97 258.87 366.8 235.69 459.64 212.51"/>
+        <polygon class="cls-6" points="532.31 314.51 438.24 331.99 344.16 349.47 347.6 301.3 351.05 253.12 441.68 283.81 532.31 314.51"/>
+        <polygon class="cls-6" points="538.31 439.6 449.71 403.44 361.12 367.29 390.06 328.62 419.01 289.96 478.66 364.78 538.31 439.6"/>
+        <polygon class="cls-6" points="475.72 548.07 420.74 469.76 365.76 391.45 411.01 374.57 456.26 357.69 465.99 452.88 475.72 548.07"/>
+        <polygon class="cls-6" points="364.42 605.49 360.51 509.89 356.6 414.28 403.79 424.55 450.98 434.81 407.7 520.15 364.42 605.49"/>
+      </g>
+      <g>
+        <g id="_Radial_Repeat_-9" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-3" x="301.42" y="176.54" width="18.89" height="56.86" transform="translate(411.93 -153.41) rotate(72.35)"/>
+        </g>
+        <g id="_Radial_Repeat_-10" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-3" x="407.77" y="203.67" width="18.89" height="56.86" transform="translate(768.85 -90.83) rotate(108.35)"/>
+        </g>
+        <g id="_Radial_Repeat_-11" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-3" x="477.86" y="288.12" width="18.89" height="56.86" transform="translate(1067.78 289.76) rotate(144.35)"/>
+        </g>
+        <g id="_Radial_Repeat_-12" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-3" x="484.92" y="397.65" width="18.89" height="56.86" transform="translate(986.14 855.16) rotate(-179.65)"/>
+        </g>
+        <g id="_Radial_Repeat_-13" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-3" x="426.26" y="490.41" width="18.89" height="56.86" transform="translate(479.12 1194.97) rotate(-143.65)"/>
+        </g>
+        <g id="_Radial_Repeat_-14" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-3" x="324.28" y="530.97" width="18.89" height="56.86" transform="translate(-98.15 1047.04) rotate(-107.65)"/>
+        </g>
+        <g id="_Radial_Repeat_-15" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-3" x="217.94" y="503.85" width="18.89" height="56.86" transform="translate(-349.41 580.54) rotate(-71.65)"/>
+        </g>
+        <g id="_Radial_Repeat_-16" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-3" x="147.84" y="419.39" width="18.89" height="56.86" transform="translate(-231.53 175.61) rotate(-35.65)"/>
+        </g>
+        <g id="_Radial_Repeat_-17" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-3" x="140.78" y="309.87" width="18.89" height="56.86" transform="translate(2.06 -.91) rotate(.35)"/>
+        </g>
+        <g id="_Radial_Repeat_-18" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-3" x="199.44" y="217.11" width="18.89" height="56.86" transform="translate(186.18 -76.03) rotate(36.35)"/>
+        </g>
+      </g>
+      <g>
+        <g id="_Radial_Repeat_-19" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-7" x="232.71" y="518.4" width="29.56" height="367.52" transform="translate(494.99 1404.32) rotate(-180)"/>
+        </g>
+        <g id="_Radial_Repeat_-20" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-7" x="27.48" y="380.89" width="29.56" height="367.52" transform="translate(-327.13 993.8) rotate(-135)"/>
+        </g>
+        <g id="_Radial_Repeat_-21" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-7" x="-20.41" y="138.53" width="29.56" height="367.52" transform="translate(-327.92 316.67) rotate(-90)"/>
+        </g>
+        <g id="_Radial_Repeat_-22" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-7" x="117.1" y="-66.7" width="29.56" height="367.52" transform="translate(-44.15 127.54) rotate(-45)"/>
+        </g>
+        <g id="_Radial_Repeat_-23" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-7" x="359.45" y="-114.59" width="29.56" height="367.52"/>
+        </g>
+        <g id="_Radial_Repeat_-24" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-7" x="564.69" y="22.92" width="29.56" height="367.52" transform="translate(315.87 -349.21) rotate(45)"/>
+        </g>
+        <g id="_Radial_Repeat_-25" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-7" x="612.58" y="265.28" width="29.56" height="367.52" transform="translate(1076.4 -178.32) rotate(90)"/>
+        </g>
+        <g id="_Radial_Repeat_-26" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-7" x="475.07" y="470.51" width="29.56" height="367.52" transform="translate(1298.87 770.54) rotate(135)"/>
+        </g>
+      </g>
+      <g>
+        <g id="_Radial_Repeat_-27" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-1" x="273.26" y="610.69" width="25.98" height="25.98" transform="translate(287.05 1309.91) rotate(-155.41)"/>
+        </g>
+        <g id="_Radial_Repeat_-28" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-1" x="154.84" y="558.6" width="25.98" height="25.98" transform="translate(-222.62 1021.52) rotate(-122.69)"/>
+        </g>
+        <g id="_Radial_Repeat_-29" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-1" x="83.37" y="450.76" width="25.98" height="25.98" transform="translate(-367.45 559.78) rotate(-89.96)"/>
+        </g>
+        <g id="_Radial_Repeat_-30" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-1" x="81.56" y="321.4" width="25.98" height="25.98" transform="translate(-237.8 232.91) rotate(-57.23)"/>
+        </g>
+        <g id="_Radial_Repeat_-31" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-1" x="149.97" y="211.59" width="25.98" height="25.98" transform="translate(-78.47 87.82) rotate(-24.5)"/>
+        </g>
+        <g id="_Radial_Repeat_-32" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-1" x="266.89" y="156.2" width="25.98" height="25.98" transform="translate(27.08 -38.29) rotate(8.22)"/>
+        </g>
+        <g id="_Radial_Repeat_-33" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-1" x="395.19" y="172.82" width="25.98" height="25.98" transform="translate(221.67 -222.05) rotate(40.95)"/>
+        </g>
+        <g id="_Radial_Repeat_-34" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-1" x="494.14" y="256.16" width="25.98" height="25.98" transform="translate(622.91 -293.19) rotate(73.68)"/>
+        </g>
+        <g id="_Radial_Repeat_-35" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-1" x="532.33" y="379.77" width="25.98" height="25.98" transform="translate(1076.1 -19.43) rotate(106.4)"/>
+        </g>
+        <g id="_Radial_Repeat_-36" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-1" x="497.62" y="504.4" width="25.98" height="25.98" transform="translate(1235.29 574.55) rotate(139.13)"/>
+        </g>
+        <g id="_Radial_Repeat_-37" data-name="&amp;lt;Radial Repeat&amp;gt;">
+          <rect class="cls-1" x="401.05" y="590.49" width="25.98" height="25.98" transform="translate(909.35 1142.24) rotate(171.86)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
