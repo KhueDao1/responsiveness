@@ -10,15 +10,8 @@ body{
     margin: 0px;
     display: flex;
     flex-direction: column;
-    /* align-items:flex-start; */
 }
 
-
-.textbox{
-    position: absolute;
-    bottom:0;
-    cursor:ew-resize;
-}
 h1{
     margin-top: 0;
     position: relative;
@@ -35,6 +28,14 @@ h1{
     background: whitesmoke;
     color: black;
     animation: run 10s 5s infinite linear alternate-reverse both;
+}
+
+.textbox{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 /*lock */
@@ -63,7 +64,9 @@ h1{
     position: relative;
     align-self: center;
 }
-
+.end{
+    display: none;
+}
 
 /*animation*/
 @keyframes pulse{
@@ -115,7 +118,6 @@ h1{
 @media screen and (max-width:1440px){
     body{
       background-image: url("img/mystery\ religion.png");
-      font-size: 60px;
       font-weight: 700;
     }
     .lock{
@@ -132,8 +134,8 @@ h1{
   @media screen and (max-width:1024px){
     body{
       background-image: url("img/Eternity.png");
-     font-size: 30px;
-     font-weight: 900;
+      color:aqua;
+      font-family: 'Times New Roman', Times, serif;
     }
     .open{
         display: none;
@@ -146,16 +148,18 @@ h1{
   @media screen and (max-height:960px){
     body{
       background-image: url("img/psychology.png");
-      font-size: 30px;
+      color:crimson;
       font-weight: 900;
+      font-family: Georgia, 'Times New Roman', Times, serif;
     }
    
   }
   @media screen and (max-height:500px){
     body{
-      background-image: url("img/pablum.png");
+      background-image: url("img/symbol.png");
       font-size: 30px;
-      font-weight: 900;
+      color:greenyellow;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
     .eternity{
         display:none;
