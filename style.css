@@ -3,20 +3,17 @@
 }
 
 body{
+    background-color: black;
     background-size: cover;
-    background-image: url("img/mystery\ religion.png");
     background-position:top;
     background-repeat: no-repeat;
     margin: 0px;
     display: flex;
     flex-direction: column;
+    /* align-items:flex-start; */
 }
-img{
-    mix-blend-mode: hard-light;
-    overflow: hidden;
-    min-width: 150vw;
-    margin-top: -20vw;
-}
+
+
 .textbox{
     position: absolute;
     bottom:0;
@@ -30,7 +27,7 @@ h1{
     font-family: 'Trebuchet MS','Gill Sans MT', Calibri,  sans-serif;
     font-size: 4vh;
     text-wrap: nowrap;
-    animation: run 10s infinite linear;
+    animation: run 10s infinite linear both;
 }
 
 .box{
@@ -39,51 +36,44 @@ h1{
     animation: run 10s 5s infinite linear alternate-reverse both;
 }
 
-.img{
-    position:relative;
-    margin: 20vh 0;
+/*lock */
+.lock{
+    height: 80vh;
+    position:absolute;
+    /* left:-2vw;
+    top:-2vw; */
+}
+.up{
     width: 100vw;
-    heigth: 60vh;
-    background-color: antiquewhite;
+    height:10vh;
+    color:crimson;
+    mix-blend-mode: overlay;
+    position: absolute;
+    bottom: 0;
+    animation: pulse 10s 5s infinite linear alternate-reverse both;
+}
+
+.open{
+    display:none;
+}
+.eternity{
+    display:none;
+    position: relative;
+    align-self: center;
 }
 
 
-@keyframes spin{
-    0%{
-        background-color: yellow;
-        border-radius: 0;
-        rotate: 0;
-    }
-    30%{
-        background-color: red;
-        border-radius: 10%;
-        rotate: 120deg;
-    }
-    75%{
-        background-color: violet;
-        border-radius: 15%;
-        rotate: 240deg;
-    }
-    100%{
-        background-color: royalblue;
-        border-radius: 30%;
-        rotate: 360deg;
-    }
-}
-
+/*animation*/
 @keyframes pulse{
     0%{
-        background-color: lightsteelblue;
         opacity: 100%;
         transform: scale(1);
     }
     40%{
-        background-color: slateblue;
         opacity: 80%;
         transform: scale(0.8);
     }
     100%{
-        background-color: skyblue;
         opacity: 60%;
         transform: scale(1.6);
     }
@@ -92,39 +82,83 @@ h1{
 @keyframes run {
     0%{
         left: -120vw;
+        opacity: 100%;
+    }
+    40%{
+        opacity: 100%;
+    }
+    41%{
+        opacity: 0%;
+    }
+    41%{
+        opacity: 100%;
+    }
+    60%{
+        opacity: 100%;
+    }
+    60%{
+        opacity: 0%;
+    }
+    60%{
+        opacity: 100%;
     }
     100%{
         left: 120vw;
+        opacity: 100%;
     }
 }
 
-
+/*Screen sizing*/
 /*desktop*/
 @media screen and (max-width:1440px){
     body{
-      background-color: black;
+      background-image: url("img/mystery\ religion.png");
       font-size: 60px;
       font-weight: 700;
     }
-   
+    .lock{
+        display: none;
+    }
+    .textbox{
+        display: none;
+    }
+    .open{
+        display:unset;
+    }
   }
   /*ipad and laptop*/
   @media screen and (max-width:1024px){
     body{
-      background-image: url("img/spiritual.png");
+      background-image: url("img/Eternity.png");
      font-size: 30px;
      font-weight: 900;
     }
-    .textbox{
-        display:none;
+    .open{
+        display: none;
+    }
+    .eternity{
+        display:unset;
     }
   }
   /*mobile*/
-  @media screen and (max-width:960px){
+  @media screen and (max-height:960px){
     body{
-      background-image: url("img/art-help.png");
+      background-image: url("img/psychology.png");
       font-size: 30px;
       font-weight: 900;
     }
    
+  }
+  @media screen and (max-height:500px){
+    body{
+      background-image: url("img/pablum.png");
+      font-size: 30px;
+      font-weight: 900;
+    }
+    .eternity{
+        display:none;
+    }
+    .end{
+        display:unset;
+    }
   }
