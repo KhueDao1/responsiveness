@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 362.4 523.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        filter: url(#outer-glow-1);
+        mix-blend-mode: soft-light;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        isolation: isolate;
+      }
+    </style>
+    <filter id="outer-glow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="12.16"/>
+      <feFlood flood-color="#fff" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-2">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_2-2" data-name="Layer 2">
+        <path id="hand" class="cls-1" d="m128.45,41.02c54.73,58.16,92.91,264.62,124.29,319.81,4,7.03,85.96,50.47,71.24,51.23-22.74,1.17-29.69-25.09-44.97-21.63-10.54,2.39,2.93,33.68,7.05,45.46,9.55,27.35,32.29,16.92,38.48,37.41,2.1,6.94-33.46-14.98-38.87-18.76-4.01-2.8-10.3-26.53-13.21-25.64-9.43,2.88,12.41,39.64,35.5,56.61,3.85,2.83-10.45,6.21-32.74-23.13-3.73-4.91-11.49-26.81-13.72-26.72-7.5.31,31.24,49.29,28.92,50.12-12.68,4.54-37.05-48.23-37.05-48.23-2.64.15,5.33,18.65,14.38,31.41,4.98,7.01-11.36-4.83-15.09-15.99-6.25-18.72-19.69-43-36.96-74.04-8.05-14.47,8.38-19-24.93-67.7-21.21-31.01-150.89-241.1-153.96-254.38-5.73-24.79,85.28-22.61,91.63-15.85Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

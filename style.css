@@ -3,11 +3,13 @@
 }
 
 body{
+    background-size: cover;
+    background-image: url("img/mystery\ religion.png");
+    background-position:top;
+    background-repeat: no-repeat;
     margin: 0px;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: ;
 }
 img{
     mix-blend-mode: hard-light;
@@ -15,15 +17,35 @@ img{
     min-width: 150vw;
     margin-top: -20vw;
 }
+.textbox{
+    position: absolute;
+    bottom:0;
+    cursor:ew-resize;
+}
+h1{
+    position: relative;
+    color: whitesmoke;
+    background-color: black;
+    mix-blend-mode: difference;
+    font-family: 'Trebuchet MS','Gill Sans MT', Calibri,  sans-serif;
+    font-size: 4vh;
+    text-wrap: nowrap;
+    animation: run 10s infinite linear;
+}
 
-/* .container{
-    width: 80vw;
-    height: 80vh;
-    background-color: darkblue;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-} */
+.box{
+    background: whitesmoke;
+    color: black;
+    animation: run 10s 5s infinite linear alternate-reverse both;
+}
+
+.img{
+    position:relative;
+    margin: 20vh 0;
+    width: 100vw;
+    heigth: 60vh;
+    background-color: antiquewhite;
+}
 
 
 @keyframes spin{
@@ -69,7 +91,7 @@ img{
 
 @keyframes run {
     0%{
-        left: -20vw;
+        left: -120vw;
     }
     100%{
         left: 120vw;
@@ -80,36 +102,29 @@ img{
 /*desktop*/
 @media screen and (max-width:1440px){
     body{
-      background-color: violet;
+      background-color: black;
       font-size: 60px;
       font-weight: 700;
     }
-    img{
-        min-width: 100vw;
-        margin-top: 0vw;
-    }
+   
   }
   /*ipad and laptop*/
   @media screen and (max-width:1024px){
     body{
-      background-color: darkorange;
+      background-image: url("img/spiritual.png");
      font-size: 30px;
      font-weight: 900;
     }
-    img{
-        min-heigt: 100vh;
-        margin-top: 0vw;
+    .textbox{
+        display:none;
     }
   }
   /*mobile*/
-  @media screen and (max-width:430px){
+  @media screen and (max-width:960px){
     body{
-      background-color: darkturquoise;
+      background-image: url("img/art-help.png");
       font-size: 30px;
       font-weight: 900;
     }
-    img{
-        min-height: 150vw;
-        margin-top: 0vw;
-    }
+   
   }
